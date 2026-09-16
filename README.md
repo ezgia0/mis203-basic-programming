@@ -1,5 +1,5 @@
 # Student Information
-* **Name:** Emine Ezgi Akcaoz
+* **Name:** Emine Ezgi Akcaöz
 * **Student Number:** 2504109902
 * **Department:** Management Information Systems
 * **Course Name:** MIS 203 - Basic Programming
