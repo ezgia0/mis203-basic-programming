@@ -8,5 +8,5 @@
 
 ## AI Reflection
 * **AI Tool Used:** Gemini
-* **Prompt Used:** "Python."
+* **Prompt Used:** "Write a python code that asks the student for name, department, age, career goal and prints them in one line as a student profile."
 * **What did you change?:** I adjusted the print format to display the profile as a single continuous line as required in the assignment instructions.
