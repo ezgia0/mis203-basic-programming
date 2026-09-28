@@ -1,0 +1,4 @@
+**Test:** Ran 2x50 and 1x80 TRY with 10% tax = 218.00 TRY.
+**Chance:** Added '.2f' to format decimals correctly.
+**Why convert input:** input() function always returns a string. we must convert it to int or float before arithmatic.
+**Stretch Task** Letters cause 'ValueError'. Can be fixed later with 'try-except
