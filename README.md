@@ -26,3 +26,14 @@
 2. Input: Age 20, Day weekend, Student yes -> Result: 175.00 TRY (Student)
 3. Input: Age 150 -> Result: Invalid age.
 **Why does the order of the rules matter?** The order ensures the biggest discount is applied first. If "Student" comes before "Child", a 10-year-old would get a smaller discount (30% instead of 40%).
+
+
+## Week 04
+* **AI Tool Used:** Gemini
+* **Prompt Used:** "How can I write a hotel reservation Python program using dictionaries and loops?"
+* **What did you change?:** I organized the capacity checks and variable names.
+* **Tests:**
+  1. Input: Economy, 1 adult -> Result: 1500.00 TRY
+  2. Input: Superior, 1 adult, 1 child (age 5), 2 nights -> Result: 5000.00 TRY
+  3. Input: Economy, 4 guests -> Result: Capacity error.
+* **Why does the order of the rules matter?:** The order ensures child age checks are evaluated first to apply correct discounts before regular pricing.
